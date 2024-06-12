@@ -1,0 +1,3 @@
+ro.config.isolated_compilation_enabled=true
+ro.product.device_for_attestation=akita
+ro.product.manufacturer_for_attestation=Google
